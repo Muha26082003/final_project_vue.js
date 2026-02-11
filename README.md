@@ -1,1 +1,1 @@
-# MyFileSynchronizationService
+# Моя финальная работа курса «Vue.js» (Skillbox/Профессия Фронтенд-разработчик)
